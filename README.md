@@ -18,9 +18,9 @@ The frontend is Javascript based.
 
 API used:
 
-**IBM weather predection **
+* **IBM weather predection **
 
-**Google Maps**
+* **Google Maps**
 
 Google Material Design specs are followed for the desigining the app.
 
