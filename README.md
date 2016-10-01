@@ -16,6 +16,12 @@ The backend of the Web App is written in **Python**.
 
 The frontend is Javascript based.
 
+API used:
+
+**IBM weather predection **
+
+**Google Maps**
+
 Google Material Design specs are followed for the desigining the app.
 
 > Read CONTRIBUTING.md before starting the contributions.
